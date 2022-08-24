@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 525,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 266,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "https://api.metro.net",
     "icon": "https://favicons.githubusercontent.com/api.metro.net",
     "slug": "metro-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "93.32%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "93.32%",
+    "uptimeMonth": "93.32%",
+    "uptimeYear": "93.32%",
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2022-08-24": 0
+    }
   }
 ]
