@@ -8,7 +8,7 @@ sites:
   - name: Swiftly API
     url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
   - name: Metro API v2
-    url: https://api.metro.net/time
+    url: https://api.metro.net
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -32,7 +32,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/LACMTA/uptime
   # links:
   #   - rel: stylesheet
   #     href: https://lacmta.github.io/design-system/dist/css/styles.css
