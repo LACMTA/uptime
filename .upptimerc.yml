@@ -5,11 +5,21 @@ repo: uptime # The name of this repository
 sites:
   - name: Metro.net
     url: https://metro.net/
-  - name: Swiftly API
-    url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
   - name: Metro API
     url: https://api.metro.net
     maxResponseTime: 50000
+    method: GET
+    headers:
+      - "Content-Type: application/json"
+  - name: Metro Time Tables API
+    url: https://timetables.metroservices.io/api/v1
+  - name: Swiftly API
+    url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
+  - name: Swiftly Bus Arrivals Map
+    url: https://live.goswift.ly/lametro/
+  - name: Swiftly Rail Arrivals Map
+    url: https://live.goswift.ly/lametro-rail/
+
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -18,7 +28,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,9 +44,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/LACMTA/uptime
-  # links:
-  #   - rel: stylesheet
-  #     href: https://lacmta.github.io/design-system/dist/css/styles.css
+  links:
+    - rel: stylesheet
+      href: https://lacmta.github.io/design-system/dist/css/styles.css
 
 assignees:
   - matikin9
