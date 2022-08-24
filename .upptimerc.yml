@@ -41,7 +41,7 @@ status-website:
   introMessage: This website monitors up time for Metro related services. It uses an open source tool called Upptime.
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/LACMTA/uptime
   links:
