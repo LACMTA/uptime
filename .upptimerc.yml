@@ -7,8 +7,9 @@ sites:
     url: https://metro.net/
   - name: Swiftly API
     url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
-  - name: Metro API v2
+  - name: Metro API
     url: https://api.metro.net
+    maxResponseTime: 50000
 
 workflowSchedule:
   graphs: "0 0 * * *"
