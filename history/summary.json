@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 99,
-    "timeWeek": 407,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "time": 578,
+    "timeDay": 990,
+    "timeWeek": 420,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 371,
-    "timeDay": 195,
-    "timeWeek": 297,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 375,
+    "timeDay": 499,
+    "timeWeek": 291,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2022-08-24": 43
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 27,
-    "timeWeek": 193,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 281,
+    "timeDay": 407,
+    "timeWeek": 197,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 259,
-    "timeWeek": 266,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 296,
+    "timeDay": 327,
+    "timeWeek": 237,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -85,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 194,
-    "timeWeek": 228,
+    "timeDay": 206,
+    "timeWeek": 231,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 157,
-    "timeWeek": 130,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 99,
+    "timeDay": 35,
+    "timeWeek": 132,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   }
 ]
