@@ -4,9 +4,9 @@
     "url": "https://metro.net/",
     "icon": "https://favicons.githubusercontent.com/metro.net",
     "slug": "metro-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 786,
     "timeMonth": 617,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "Metro API",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/api.metro.net",
     "slug": "metro-api",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "90.25%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.57%",
+    "uptimeDay": "88.34%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.57%",
     "time": 373,
     "timeDay": 347,
     "timeWeek": 397,
     "timeMonth": 365,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2022-09-28": 12,
+      "2022-09-28": 40,
       "2022-09-27": 128,
       "2022-08-24": 43
     }
