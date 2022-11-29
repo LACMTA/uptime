@@ -1,7 +1,7 @@
 url: https://live.goswift.ly/lametro-rail/
-status: down
-code: 530
-responseTime: 15
-lastUpdated: 2022-11-29T06:52:26.073Z
+status: up
+code: 200
+responseTime: 100
+lastUpdated: 2022-11-29T07:00:37.387Z
 startTime: Wed Aug 24 2022 21:44:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
