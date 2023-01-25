@@ -4,10 +4,10 @@
     "url": "https://metro.net/",
     "icon": "https://icons.duckduckgo.com/ip3/metro.net.ico",
     "slug": "metro-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 781,
@@ -16,6 +16,7 @@
     "timeMonth": 600,
     "timeYear": 781,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-03": 22,
       "2022-12-03": 62,
       "2022-10-07": 36,
@@ -58,11 +59,11 @@
     "url": "https://timetables.metroservices.io/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "metro-time-tables-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 112,
@@ -70,7 +71,7 @@
     "timeMonth": 259,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-01-25": 6
+      "2023-01-25": 0
     }
   },
   {
