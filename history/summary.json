@@ -79,19 +79,19 @@
     "url": "https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency",
     "icon": "https://icons.duckduckgo.com/ip3/transitime-api.goswift.ly.ico",
     "slug": "swiftly-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 284,
-    "timeDay": 315,
-    "timeWeek": 299,
-    "timeMonth": 305,
-    "timeYear": 284,
+    "time": 283,
+    "timeDay": 282,
+    "timeWeek": 283,
+    "timeMonth": 300,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-03-31": 23
+      "2023-03-31": 31
     }
   },
   {
