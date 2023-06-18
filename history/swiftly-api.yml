@@ -1,7 +1,7 @@
 url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
-status: down
-code: 400
-responseTime: 120
-lastUpdated: 2023-06-18T10:00:29.018Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2023-06-18T10:10:42.335Z
 startTime: Wed Aug 24 2022 19:27:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
