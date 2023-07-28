@@ -65,9 +65,9 @@
     "url": "https://timetables.metroservices.io/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "metro-time-tables-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 337,
     "timeMonth": 291,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "Swiftly API",
