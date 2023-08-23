@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 771,
-    "timeDay": 185,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 771,
+    "time": 770,
+    "timeDay": 402,
+    "timeWeek": 326,
+    "timeMonth": 324,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2023-06-03": 332,
       "2023-03-21": 21,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.57%",
-    "time": 461,
-    "timeDay": 419,
-    "timeWeek": 426,
+    "time": 460,
+    "timeDay": 233,
+    "timeWeek": 392,
     "timeMonth": 395,
-    "timeYear": 461,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2023-05-07": 204,
       "2023-04-21": 820,
@@ -67,18 +67,16 @@
     "slug": "metro-time-tables-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 318,
-    "timeWeek": 2771,
-    "timeMonth": 980,
-    "timeYear": 354,
-    "dailyMinutesDown": {
-      "2023-08-22": 7
-    }
+    "time": 353,
+    "timeDay": 155,
+    "timeWeek": 2695,
+    "timeMonth": 978,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Swiftly API",
@@ -91,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 466,
-    "timeWeek": 368,
+    "time": 300,
+    "timeDay": 123,
+    "timeWeek": 336,
     "timeMonth": 470,
-    "timeYear": 301,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2023-03-31": 23
     }
@@ -112,8 +110,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 157,
-    "timeWeek": 188,
+    "timeDay": 199,
+    "timeWeek": 192,
     "timeMonth": 206,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -129,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 33,
-    "timeWeek": 62,
+    "time": 87,
+    "timeDay": 147,
+    "timeWeek": 76,
     "timeMonth": 77,
-    "timeYear": 86,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   }
 ]
