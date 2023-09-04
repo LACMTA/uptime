@@ -1,7 +1,7 @@
 url: https://timetables.metroservices.io/api/v1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-04T10:32:44.267Z
+status: up
+code: 200
+responseTime: 385
+lastUpdated: 2023-09-04T10:39:25.516Z
 startTime: 2022-08-24T21:44:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
