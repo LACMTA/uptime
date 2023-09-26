@@ -34,9 +34,9 @@
     "slug": "metro-api",
     "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.59%",
     "time": 470,
     "timeDay": 446,
@@ -44,7 +44,6 @@
     "timeMonth": 562,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-09-26": 10,
       "2023-05-07": 204,
       "2023-04-21": 820,
       "2023-04-20": 1152,
@@ -65,9 +64,9 @@
     "url": "https://timetables.metroservices.io/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "metro-time-tables-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +75,9 @@
     "timeWeek": 753,
     "timeMonth": 790,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-26": 0
+    }
   },
   {
     "name": "Swiftly API",
