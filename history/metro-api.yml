@@ -1,7 +1,7 @@
 url: https://api.metro.net
-status: down
-code: 503
-responseTime: 157
-lastUpdated: 2023-10-01T00:48:51.965Z
+status: up
+code: 200
+responseTime: 456
+lastUpdated: 2023-10-01T01:21:33.219Z
 startTime: 2022-08-24T19:45:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
