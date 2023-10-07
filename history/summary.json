@@ -54,19 +54,19 @@
     "url": "https://timetables.metroservices.io/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "metro-time-tables-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 305,
-    "timeWeek": 313,
-    "timeMonth": 866,
-    "timeYear": 464,
+    "time": 443,
+    "timeDay": 225,
+    "timeWeek": 286,
+    "timeMonth": 844,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 7
     }
   },
   {
