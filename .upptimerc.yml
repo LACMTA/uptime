@@ -16,23 +16,23 @@ sites:
     headers:
       - "Content-Type: application/json"
   - name: Prod - Timetables API - Root
-    url: https://timetables.metroservices.io/api/v1
+    url: https://timetables.metroservices.io/api/v1?format=json
     maxResponseTime: 50000
   - name: Prod - Timetables API - Bus Routes
-    url: https://timetables.metroservices.io/api/v1/agencies/LACMTA/routes/
-    __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA"'
+    url: https://timetables.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json
+    __dangerous__body_down_if_text_missing: 'agency_id'
     maxResponseTime: 50000
   - name: Prod - Timetables API - Rail Routes
-    url: https://timetables.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/
-    __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA_Rail"'
+    url: https://timetables.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/?format=json
+    __dangerous__body_down_if_text_missing: 'agency_id'
     maxResponseTime: 50000
   - name: Staging - Timetables API - Bus Routes
-    url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/
-    __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA"'
+    url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json
+    __dangerous__body_down_if_text_missing: 'agency_id'
     maxResponseTime: 50000
   - name: Staging - Timetables API - Rail Routes
-    url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/
-    __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA_Rail"'
+    url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/?format=json
+    __dangerous__body_down_if_text_missing: 'agency_id'
     maxResponseTime: 50000
   - name: Swiftly API
     url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
