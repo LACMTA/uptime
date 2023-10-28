@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "96.46%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "96.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2023-10-28": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Timetables API - Rail Routes",
@@ -151,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "96.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2023-10-28": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Swiftly API",
