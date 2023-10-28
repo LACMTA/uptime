@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metro.net.ico",
     "slug": "metro-net-schedules-page",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 175,
     "timeDay": 175,
     "timeWeek": 175,
@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "96.34%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "96.34%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 109,
     "timeWeek": 109,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2023-10-28": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Timetables API - Rail Routes",
@@ -151,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "96.35%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "96.35%",
-    "uptimeYear": "96.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 109,
     "timeWeek": 109,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2023-10-28": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Swiftly API",
