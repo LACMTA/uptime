@@ -5,14 +5,25 @@ repo: uptime # The name of this repository
 sites:
   - name: Metro.net
     url: https://metro.net/
+  - name: Metro.net Schedules Page
+    url: https://metro.net/riding/schedules/
+    __dangerous__body_down_if_text_missing: 'Azusa - Long Beach'
   - name: Metro API
     url: https://api.metro.net
     maxResponseTime: 50000
     method: GET
     headers:
       - "Content-Type: application/json"
-  - name: Metro Time Tables API
+  - name: Metro Timetables API root
     url: https://timetables.metroservices.io/api/v1
+  - name: [Prod] Timetables API - Rail Routes
+    url: https://timetables.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/
+  - name: [Prod] Timetables API - Bus Routes
+    url: https://timetables.metroservices.io/api/v1/agencies/LACMTA/routes/
+  - name: [Prod] Timetables API - Rail Routes
+    url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/
+  - name: [Prod] Timetables API - Bus Routes
+    url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/    
   - name: Swiftly API
     url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
   - name: Swiftly Bus Arrivals Map
