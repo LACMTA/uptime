@@ -16,14 +16,19 @@ sites:
       - "Content-Type: application/json"
   - name: Metro Timetables API root
     url: https://timetables.metroservices.io/api/v1
+    maxResponseTime: 50000
   - name: Prod Timetables API - Rail Routes
     url: https://timetables.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/
+    maxResponseTime: 50000
   - name: Prod Timetables API - Bus Routes
     url: https://timetables.metroservices.io/api/v1/agencies/LACMTA/routes/
+    maxResponseTime: 50000
   - name: Prod Timetables API - Rail Routes
     url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/
+    maxResponseTime: 50000
   - name: Prod Timetables API - Bus Routes
     url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/    
+    maxResponseTime: 50000
   - name: Swiftly API
     url: https://transitime-api.goswift.ly/api/v1/key/81YENWXv/agency/lametro/command/agency
   - name: Swiftly Bus Arrivals Map
