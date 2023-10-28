@@ -26,11 +26,11 @@ sites:
     url: https://timetables.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/
     __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA_Rail"'
     maxResponseTime: 50000
-  - name: Prod Timetables API - Rail Routes
+  - name: Staging Timetables API - Rail Routes
     url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/
     __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA"'
     maxResponseTime: 50000
-  - name: Prod Timetables API - Bus Routes
+  - name: Staging Timetables API - Bus Routes
     url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/
     __dangerous__body_down_if_text_missing: '"agency_id": "LACMTA_Rail"'
     maxResponseTime: 50000
