@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/metro.net.ico",
     "slug": "metro-net-schedules-page",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 175,
     "timeDay": 175,
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2023-10-28": 2
+      "2023-10-28": 5
     }
   },
   {
@@ -113,17 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "uptime": "96.26%",
+    "uptimeDay": "96.26%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "96.26%",
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
+    "dailyMinutesDown": {
+      "2023-10-28": 0
+    }
   },
   {
     "name": "Prod Timetables API - Rail Routes",
@@ -149,17 +151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "uptime": "96.27%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
+    "dailyMinutesDown": {
+      "2023-10-28": 0
+    }
   },
   {
     "name": "Swiftly API",
