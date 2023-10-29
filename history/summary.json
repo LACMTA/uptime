@@ -40,7 +40,7 @@
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-10-29": 1054,
+      "2023-10-29": 1061,
       "2023-10-28": 1316
     }
   },
@@ -107,7 +107,7 @@
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-10-29": 1054,
+      "2023-10-29": 1061,
       "2023-10-28": 1304
     }
   },
@@ -128,7 +128,7 @@
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2023-10-29": 1054,
+      "2023-10-29": 1061,
       "2023-10-28": 1304
     }
   },
@@ -138,11 +138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
     "status": "up",
-    "uptime": "93.66%",
+    "uptime": "93.68%",
     "uptimeDay": "90.77%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "93.66%",
-    "uptimeYear": "93.66%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "93.68%",
     "time": 12627,
     "timeDay": 17634,
     "timeWeek": 12627,
@@ -158,19 +158,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
-    "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
-    "time": 9678,
-    "timeDay": 12442,
-    "timeWeek": 9678,
-    "timeMonth": 9678,
-    "timeYear": 9678,
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
+    "time": 9135,
+    "timeDay": 11499,
+    "timeWeek": 9135,
+    "timeMonth": 9135,
+    "timeYear": 9135,
     "dailyMinutesDown": {
-      "2023-10-29": 35
+      "2023-10-29": 42
     }
   },
   {
