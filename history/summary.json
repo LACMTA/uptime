@@ -40,7 +40,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 955,
+      "2023-10-30": 988,
       "2023-10-29": 1440,
       "2023-10-28": 1316
     }
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.metro.net.ico",
     "slug": "metro-api",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.76%",
@@ -108,7 +108,7 @@
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-10-30": 955,
+      "2023-10-30": 988,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -130,7 +130,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-30": 955,
+      "2023-10-30": 988,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -140,19 +140,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
-    "status": "down",
-    "uptime": "93.03%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "93.03%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "93.03%",
-    "time": 12672,
-    "timeDay": 12388,
-    "timeWeek": 12672,
-    "timeMonth": 12672,
-    "timeYear": 12672,
+    "status": "up",
+    "uptime": "92.23%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "92.23%",
+    "time": 12783,
+    "timeDay": 12576,
+    "timeWeek": 12783,
+    "timeMonth": 12783,
+    "timeYear": 12783,
     "dailyMinutesDown": {
-      "2023-10-30": 15,
+      "2023-10-30": 48,
       "2023-10-29": 226,
       "2023-10-28": 16
     }
@@ -163,13 +163,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.97%",
     "uptimeDay": "97.17%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
     "time": 8235,
-    "timeDay": 6574,
+    "timeDay": 6543,
     "timeWeek": 8235,
     "timeMonth": 8235,
     "timeYear": 8235,
