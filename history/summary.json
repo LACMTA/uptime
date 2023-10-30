@@ -40,7 +40,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 245,
+      "2023-10-30": 254,
       "2023-10-29": 1440,
       "2023-10-28": 1316
     }
@@ -108,7 +108,7 @@
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-10-30": 245,
+      "2023-10-30": 254,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -130,7 +130,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-30": 245,
+      "2023-10-30": 254,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -140,19 +140,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
-    "status": "down",
-    "uptime": "91.83%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "91.83%",
-    "uptimeYear": "91.83%",
-    "time": 12262,
+    "status": "up",
+    "uptime": "91.59%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "91.59%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "91.59%",
+    "time": 12261,
     "timeDay": 12208,
-    "timeWeek": 12262,
-    "timeMonth": 12262,
-    "timeYear": 12262,
+    "timeWeek": 12261,
+    "timeMonth": 12261,
+    "timeYear": 12261,
     "dailyMinutesDown": {
-      "2023-10-30": 2,
+      "2023-10-30": 10,
       "2023-10-29": 226,
       "2023-10-28": 16
     }
@@ -163,18 +163,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
     "status": "up",
-    "uptime": "97.13%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "97.13%",
+    "uptime": "97.47%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "97.47%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "97.47%",
     "time": 8566,
     "timeDay": 6969,
     "timeWeek": 8566,
     "timeMonth": 8566,
     "timeYear": 8566,
     "dailyMinutesDown": {
-      "2023-10-30": 10,
       "2023-10-29": 75
     }
   },
