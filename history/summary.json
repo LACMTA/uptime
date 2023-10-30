@@ -40,7 +40,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 1022,
+      "2023-10-30": 1035,
       "2023-10-29": 1440,
       "2023-10-28": 1316
     }
@@ -108,7 +108,7 @@
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-10-30": 1022,
+      "2023-10-30": 1035,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -130,7 +130,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-30": 1022,
+      "2023-10-30": 1035,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -140,19 +140,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
-    "status": "up",
-    "uptime": "92.09%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "92.09%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "92.09%",
+    "status": "down",
+    "uptime": "92.28%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "92.28%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "92.28%",
     "time": 13023,
     "timeDay": 13276,
     "timeWeek": 13023,
     "timeMonth": 13023,
     "timeYear": 13023,
     "dailyMinutesDown": {
-      "2023-10-30": 56,
+      "2023-10-30": 50,
       "2023-10-29": 226,
       "2023-10-28": 16
     }
@@ -162,9 +162,9 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA_Rail/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "97.17%",
+    "uptimeDay": "97.16%",
     "uptimeWeek": "97.99%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "97.99%",
@@ -174,6 +174,7 @@
     "timeMonth": 8729,
     "timeYear": 8729,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-10-29": 75
     }
   },
