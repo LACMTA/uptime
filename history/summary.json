@@ -40,7 +40,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 1043,
+      "2023-10-30": 1060,
       "2023-10-29": 1440,
       "2023-10-28": 1316
     }
@@ -108,7 +108,7 @@
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-10-30": 1043,
+      "2023-10-30": 1060,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -130,7 +130,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-30": 1043,
+      "2023-10-30": 1060,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -140,19 +140,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
-    "status": "up",
-    "uptime": "92.09%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "92.09%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "92.09%",
+    "status": "down",
+    "uptime": "92.36%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "92.36%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "92.36%",
     "time": 13156,
     "timeDay": 13482,
     "timeWeek": 13156,
     "timeMonth": 13156,
     "timeYear": 13156,
     "dailyMinutesDown": {
-      "2023-10-30": 57,
+      "2023-10-30": 48,
       "2023-10-29": 226,
       "2023-10-28": 16
     }
@@ -163,18 +163,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
     "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
+    "uptime": "98.01%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
     "time": 9054,
     "timeDay": 8475,
     "timeWeek": 9054,
     "timeMonth": 9054,
     "timeYear": 9054,
     "dailyMinutesDown": {
-      "2023-10-30": 8,
       "2023-10-29": 75
     }
   },
