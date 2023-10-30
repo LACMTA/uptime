@@ -40,7 +40,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 885,
+      "2023-10-30": 895,
       "2023-10-29": 1440,
       "2023-10-28": 1316
     }
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/timetables.metroservices.io.ico",
     "slug": "prod-timetables-api-bus-routes",
     "status": "down",
-    "uptime": "0.35%",
+    "uptime": "0.34%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 146,
     "timeDay": 94,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-10-30": 886,
+      "2023-10-30": 895,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -130,7 +130,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-30": 886,
+      "2023-10-30": 895,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -140,19 +140,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
-    "status": "up",
-    "uptime": "92.70%",
-    "uptimeDay": "91.97%",
-    "uptimeWeek": "92.70%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "92.70%",
+    "status": "down",
+    "uptime": "92.88%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "92.88%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "92.88%",
     "time": 12794,
     "timeDay": 12567,
     "timeWeek": 12794,
     "timeMonth": 12794,
     "timeYear": 12794,
     "dailyMinutesDown": {
-      "2023-10-30": 22,
+      "2023-10-30": 16,
       "2023-10-29": 226,
       "2023-10-28": 16
     }
@@ -163,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "97.17%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.91%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
     "time": 8235,
     "timeDay": 6574,
     "timeWeek": 8235,
