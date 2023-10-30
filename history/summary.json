@@ -40,7 +40,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 785,
+      "2023-10-30": 795,
       "2023-10-29": 1440,
       "2023-10-28": 1316
     }
@@ -108,7 +108,7 @@
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-10-30": 785,
+      "2023-10-30": 795,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -130,7 +130,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-30": 785,
+      "2023-10-30": 795,
       "2023-10-29": 1440,
       "2023-10-28": 1304
     }
@@ -140,19 +140,19 @@
     "url": "https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-bus-routes",
-    "status": "down",
-    "uptime": "92.69%",
-    "uptimeDay": "92.45%",
-    "uptimeWeek": "92.69%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "92.69%",
-    "time": 11839,
-    "timeDay": 10372,
-    "timeWeek": 11839,
-    "timeMonth": 11839,
-    "timeYear": 11839,
+    "status": "up",
+    "uptime": "92.43%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "92.43%",
+    "time": 12255,
+    "timeDay": 11135,
+    "timeWeek": 12255,
+    "timeMonth": 12255,
+    "timeYear": 12255,
     "dailyMinutesDown": {
-      "2023-10-30": 16,
+      "2023-10-30": 25,
       "2023-10-29": 226,
       "2023-10-28": 16
     }
@@ -163,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-timetables-api.metroservices.io.ico",
     "slug": "staging-timetables-api-rail-routes",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "97.17%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "97.85%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 8566,
     "timeDay": 7057,
     "timeWeek": 8566,
