@@ -1,7 +1,7 @@
 url: https://timetables.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json
 status: down
 code: 400
-responseTime: 181
-lastUpdated: 2024-03-12T23:05:09.698Z
+responseTime: 33
+lastUpdated: 2024-03-13T23:04:51.295Z
 startTime: 2023-10-28T02:03:42.412Z
 generator: Upptime <https://github.com/upptime/upptime>
