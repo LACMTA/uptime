@@ -1,7 +1,7 @@
 url: https://stage-timetables-api.metroservices.io/api/v1/agencies/LACMTA/routes/?format=json
 status: up
 code: 200
-responseTime: 1064
-lastUpdated: 2024-06-15T23:05:37.488Z
+responseTime: 1078
+lastUpdated: 2024-06-16T23:05:50.603Z
 startTime: 2023-10-28T02:17:05.716Z
 generator: Upptime <https://github.com/upptime/upptime>
